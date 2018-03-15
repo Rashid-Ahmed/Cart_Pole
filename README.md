@@ -1,2 +1,2 @@
-# Cart_Pole
-Balancing a cart pole with policy gradients
+# Balancing a Cart Pole
+Using policy gradients to balance a cart pole 
